@@ -15,3 +15,27 @@
       | 2             | 2             |
       | 13            | 31            |
       | 895796        | 695798        |
+      
+ 3. Enter a number. Find the difference between its biggest and smallest digits. 
+ 
+      |    Input      |     Output    |
+      | ------------- | ------------- |
+      | 5             | 0             |
+      | 152           | 4             |
+      | 4593653       | 6             |
+      
+  4. Insert a number. Print ‘yes’ if the number is prime, ‘no’ otherwise. 
+  
+      |    Input      |     Output    |
+      | ------------- | ------------- |
+      | 401           | ‘yes’         |
+      | 63            | ‘no’          |
+      
+  5.  Write a program that reads two strings for playing the game of Rock-Paper-Scissors. If the strings entered by the user are    not  'Paper', 'Rock' or 'Scissors', the program keeps on prompting the user to enter new values. If valid strings are inserted, repeat the loop, until one of the sides wins. (You can use alert instead of console.log). 
+  
+      |    Input                 |     Output                                   |
+      | ------------------------ | -------------------------------------------- |
+      | “Paper”, “Pen”           | “Invalid input, enter correct value.”        |
+      | “Paper”, “Paper”         | “Draw! Enter new values.”                    |
+      | “Paper”, “Scissors”      | “2nd player wins!”                           |
+      
