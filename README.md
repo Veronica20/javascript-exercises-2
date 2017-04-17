@@ -39,3 +39,27 @@
       | “Paper”, “Paper”         | “Draw! Enter new values.”                    |
       | “Paper”, “Scissors”      | “2nd player wins!”                           |
       
+ 6. Given a number n ( n >= 0 ). Print n Fibonacci number.  (Fibonacci series: 0, 1, 1, 2, ht 3, 5, 8 …, ak = ak-1 + ak-2)
+ 
+      |    Input      |     Output    |
+      | ------------- | ------------- |
+      | 0             | 0             |
+      | 2             | 1             |
+      | 10            | 55            |
+      | 20            | 6765          |
+      
+   7. Given a number n ( n > 0 ). Print Fibonacci series up to n .
+   
+      |    Input      |     Output                        |
+      | ------------- | --------------------------------- |
+      | 7             | “0, 1, 1, 2, 3, 5 “               |
+      | 45            | “0, 1, 1, 2, 3, 5, 8, 13, 21, 44” |
+      
+   8. Write a program, to calculate the value of the following sequence: 1 - 1/3 + 1/5 - 1/7 + 1/9 + … + (-1k) * 1/n .
+   
+   9. Write a program which will give you all of the potential combinations of a two-digit decimal combination, printed in a comma delimited format ‘00’, ‘01’, ‘02’, …, ‘98’, ‘99’.
+      
+
+     
+      
+     
