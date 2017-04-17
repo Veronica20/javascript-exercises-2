@@ -58,6 +58,7 @@
    8. Write a program, to calculate the value of the following sequence: 1 - 1/3 + 1/5 - 1/7 + 1/9 + … + (-1k) * 1/n .
    
    9. Write a program which will give you all of the potential combinations of a two-digit decimal combination, printed in a comma delimited format ‘00’, ‘01’, ‘02’, …, ‘98’, ‘99’.
+
       
 
      
