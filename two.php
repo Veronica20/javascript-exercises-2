@@ -14,8 +14,8 @@ include 'header.php';
 <script>
     function two(value) {
         var entranceArr = entrance(value)[0].toString();
-        newArr =  entranceArr[entranceArr.length -1];
-        for(var i=1 ; i < entranceArr.length-1 ;  i++){
+        newArr = entranceArr[entranceArr.length - 1];
+        for (var i = 1; i < entranceArr.length - 1; i++) {
             newArr += entranceArr[i]
         }
         newArr += entranceArr[0];
